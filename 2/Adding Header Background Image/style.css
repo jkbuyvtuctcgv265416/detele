@@ -1,0 +1,17 @@
+body{
+    margin: 0px;
+}
+
+
+#body-header{
+    height: 65vh;
+    opacity: 0.8;
+    background-image: url(image/macbook_mouse.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.skills h3{
+    text-decoration-color: aqua;
+}
